@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Formulários</title>
+</head>
+
+<body>
+    <h1> formulario de contado</h1>
+    <form>
+    Nome    : <input type="Nome" name="Nome" required multiple>
+
+    </form>
+</body>
+
+</html>
+<form>
+    E-mail: <input type="email" name="email" required multiple>
+
+</form>
+</body>
+
+</html>
+<form>
+    Mensagem: <input type=Mensagem" name="Mensagem" required multiple>
+    <input type="submit" value="Enviar">
+</form>
+</body>
+
+</html>
